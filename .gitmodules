@@ -1,45 +1,28 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "fam.recrisk"]
 	path = fam.recrisk
 	url = https://github.com/cran/fam.recrisk
-	shallow = true
-	registered = true
 [submodule "haplo.stats"]
 	path = haplo.stats
 	url = https://github.com/cran/haplo.stats
-	shallow = true
-	registered = true
 [submodule "ibdreg"]
 	path = ibdreg
 	url = https://github.com/cran/ibdreg
-	shallow = true
-	registered = true
 [submodule "pedgene"]
 	path = pedgene
 	url = https://github.com/cran/pedgene
-	shallow = true
-	registered = true
 [submodule "pleio"]
 	path = pleio
 	url = https://github.com/cran/pleio
-	shallow = true
-	registered = true
 [submodule "regmed"]
 	path = regmed
 	url = https://github.com/cran/regmed
-	shallow = true
-	registered = true
 [submodule "smartDesign"]
 	path = smartDesign
 	url = https://github.com/cran/smartDesign
-	shallow = true
-	registered = true
 [submodule "vcpen"]
 	path = vcpen
 	url = https://github.com/cran/vcpen
-	shallow = true
-	registered = true
