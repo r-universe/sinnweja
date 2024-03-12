@@ -8,9 +8,6 @@
 [submodule "haplo.stats"]
 	path = haplo.stats
 	url = https://github.com/cran/haplo.stats
-[submodule "ibdreg"]
-	path = ibdreg
-	url = https://github.com/cran/ibdreg
 [submodule "pedgene"]
 	path = pedgene
 	url = https://github.com/cran/pedgene
