@@ -20,6 +20,3 @@
 [submodule "smartDesign"]
 	path = smartDesign
 	url = https://github.com/cran/smartDesign
-[submodule "vcpen"]
-	path = vcpen
-	url = https://github.com/cran/vcpen
